@@ -1,0 +1,18 @@
+PODS:
+  - IAPHelper (1.1)
+  - Masonry (1.1.0)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - IAPHelper
+  - Masonry
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  IAPHelper: fd74f53b0ac142eed085777b88b86a11746a2dd4
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: 3bf6eec5959854ee7b8f2b87a74f5ed30bc3c06f
+
+COCOAPODS: 1.2.1
